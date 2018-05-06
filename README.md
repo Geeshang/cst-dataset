@@ -1,7 +1,7 @@
 # CST-Dataset
 Read this in other languages: [English](./README.md) [中文](./README.zh.md) 
 
-CST-Dataset, **C**ircle-**S**quare-**T**riangle Dataset, is a tiny object detection and segmentation dataset, has 1000 images, contains only circles, squares and triangles in different scales, and the file size is just 25MB. 
+CST-Dataset, **C**ircle-**S**quare-**T**riangle Dataset, is a simple small-scale object detection and segmentation dataset, has 1000 images, contains only circles, squares and triangles in different scales, and the file size is just 25MB. 
 
 Considering some exists heavyweight dataset like PASCAL VOC or COCO, the training time will usually be hours or even days. So a ten-minute training dataset may serve as a good start for beginners to familiar with object detection and segmentation or as a sanity check dataset for implementors to quick check the correctness of their model implementation.
 
